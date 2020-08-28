@@ -1,0 +1,7 @@
+{
+    "name": "checkout-ui-test-reusable-components",
+    "version": "0.0.1",
+    "dependencies": {
+        "@shopify/argo-checkout-react": "^0.3.8"
+    }
+}

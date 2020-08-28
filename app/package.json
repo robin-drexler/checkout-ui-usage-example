@@ -1,0 +1,12 @@
+{
+  "name": "checkout-ui-test-minimal-app",
+  "private": true,
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "@shopify/checkout-ui-react": "^0.0.6",
+    "checkout-ui-test-reusable-components": "^0.0.1",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
+}
